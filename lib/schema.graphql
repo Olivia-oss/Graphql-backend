@@ -1,0 +1,6 @@
+
+  type Persona {
+  _id: ID!
+  name: String!
+  age: Int
+}
